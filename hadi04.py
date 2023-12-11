@@ -1,1 +1,1 @@
-print("hadi is the best in the fucking world")
+print("hadi is the best in the fucking worlds")
