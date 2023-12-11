@@ -1,0 +1,1 @@
+print("hadi is the best in the fucking world")
